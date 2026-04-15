@@ -1,0 +1,22 @@
+*{
+  font-family: calibri;
+}
+
+a{
+  text-decoration: none;
+}
+
+.underline{
+  height: 5px;
+  width: 150px;
+  background-color: #EB8317;
+  border-radius: 20px;
+}
+
+.bg-f2f2f2{
+  background-color: #f2f2f2;
+}
+
+.bgh{
+  background-color: #EB8317;
+}
